@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyAR.Sense", "EasyAR.Sense.csproj", "{1da053d6-e785-f7e4-0a20-eff118c71fb9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyAR.Sense.Editor", "EasyAR.Sense.Editor.csproj", "{7760001c-3fd4-3f86-9cef-93c2367489f6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1da053d6-e785-f7e4-0a20-eff118c71fb9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1da053d6-e785-f7e4-0a20-eff118c71fb9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7760001c-3fd4-3f86-9cef-93c2367489f6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7760001c-3fd4-3f86-9cef-93c2367489f6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
